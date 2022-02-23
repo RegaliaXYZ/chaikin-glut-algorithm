@@ -1,0 +1,2 @@
+D:\ESGI\opengl\Debug\Maths.exe
+D:\ESGI\chaikin-glut-algorithm\Debug\Maths.exe

@@ -1,0 +1,3 @@
+﻿  main.cpp
+D:\ESGI\chaikin-glut-algorithm\main.cpp(37,11): warning C4018: '<': signed/unsigned mismatch
+  Maths.vcxproj -> D:\ESGI\chaikin-glut-algorithm\Debug\Maths.exe
